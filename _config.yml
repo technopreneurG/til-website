@@ -63,3 +63,4 @@ host:    0.0.0.0
 baseurl: "" # does not include hostname
 show_dir_listing: false
 
+google_analytics: "UA-102723231-3"
