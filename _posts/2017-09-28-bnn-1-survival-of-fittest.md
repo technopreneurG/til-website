@@ -2,8 +2,10 @@
 layout: post
 title: "Biological Nerual Networks(Part 1): Survival of the Fittest"
 tags: [Biological Nerual Networks, Neural Networks, Neuroscience, Nervous System, Survival of the fittest, Natural Selection, Adaptability]
+date: 2017-09-28 21:28:17 +0530
 created_at: 2017-09-28 21:28:17 +0530
-updated_at: 2017-09-28 21:28:17 +0530
+updated_at: 2017-09-28 21:38:26 +0530
+categories: til
 ---
 
 <br/>

@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Web scraping - Scrapy"
+tags: [Scrapy, Web scraping, Crawler]
+date: 2017-09-18 09:17:18 +0530
 created_at: 2017-09-18 09:17:18 +0530
-updated_at: 2017-09-18 09:17:18 +0530
+updated_at: 2017-09-28 21:38:26 +0530
 categories: til
 ---
 # About Scrapy
