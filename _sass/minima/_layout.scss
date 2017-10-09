@@ -130,7 +130,7 @@
 
 .footer-col {
   float: left;
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: 1px;
   padding-left: $spacing-unit / 2;
 }
 
@@ -188,7 +188,7 @@
   list-style: none;
 
   > li {
-    margin-bottom: $spacing-unit;
+    margin-bottom: 1px;
   }
 }
 
