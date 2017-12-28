@@ -4,7 +4,7 @@ title:  "Rugged : libgit2 bindings in Ruby"
 tags: [git, libgit2, ruby, rugged]
 date: 2017-11-06 01:53:35 +0530
 created_at: 2017-11-06 01:53:35 +0530
-updated_at: 2017-11-06 01:53:35 +0530
+updated_at: 2017-12-29 05:24:06 +0530
 categories: til
 ---
 # About Rugged
@@ -222,7 +222,7 @@ def git_commit(repo, filename)
                                    :message => "Hello",
                                    :committer => author,
                                    :parents => repo.empty? ? [] : [ repo.head.target ].compact,
-                                   :tree => repo.index.write_tree(repo),#repo.head.target.tree, #
+                                   :tree => repo.index.write_tree(repo),
                                    :update_ref => "HEAD")
 
 end
