@@ -4,7 +4,7 @@ title: "WebDev: Node + ReactApp"
 tags: [Web, Node, ReactApp]
 date: 2020-01-11 10:45:38 +0530
 created_at: 2020-01-11 10:45:38 +0530
-updated_at: 2020-01-13 00:43:23 +0530
+updated_at: 2020-01-13 00:55:19 +0530
 categories: til
 ---
 
@@ -55,7 +55,7 @@ $ docker build -t learn_node_reactapp .
 
 # Run the container
 $ docker run --name LEARN_NODE_REACTAPP --rm -dt \
-		-v $(pwd):/usr/app -p 3005:3005 learn_node_reactapp:latest
+		-v $(pwd):/usr/app -p 3000:3000 learn_node_reactapp:latest
 
 # Get into the running container
 $ docker exec -it LEARN_NODE_REACTAPP bash
