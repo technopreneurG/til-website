@@ -4,7 +4,7 @@ title: "WebDev: Node + ReactApp"
 tags: [Web, Node, ReactApp]
 date: 2020-01-11 10:45:38 +0530
 created_at: 2020-01-11 10:45:38 +0530
-updated_at: 2020-02-19 02:25:48 +0530
+updated_at: 2020-02-19 03:10:40 +0530
 categories: til
 ---
 
@@ -120,3 +120,8 @@ Copy the build folder content and deploy it in production
 
 * For reference, please checkout the code:
 <https://github.com/technopreneurG/learn_node_reactapp>
+
+* SEE ALSO
+  * <http://create-react-app.dev/docs/getting-started/>
+  * <https://www.npmjs.com/package/create-react-app>
+  * <https://codeburst.io/building-your-first-react-app-c1f6eb814205>
