@@ -4,7 +4,7 @@ title: "WebDev: Node + ReactApp"
 tags: [Web, Node, ReactApp]
 date: 2020-01-11 10:45:38 +0530
 created_at: 2020-01-11 10:45:38 +0530
-updated_at: 2020-01-13 00:55:19 +0530
+updated_at: 2020-02-19 02:25:48 +0530
 categories: til
 ---
 
@@ -117,3 +117,6 @@ root@09e5ec3d64e3:/usr/app/my-react-app1# yarn test
 root@09e5ec3d64e3:/usr/app/my-react-app1# yarn build
 ```
 Copy the build folder content and deploy it in production
+
+* For reference, please checkout the code:
+<https://github.com/technopreneurG/learn_node_reactapp>
