@@ -4,7 +4,7 @@ title: "Storybook: a tool for UI development"
 tags: [UI development, web development, reactjs, vuejs, angularjs, storybookjs, componentdriven]
 date: 2021-11-21 00:29:48 +0530
 created_at: 2021-11-21 00:29:48 +0530
-updated_at: 2021-11-21 01:55:04 +0530
+updated_at: 2021-11-21 02:37:10 +0530
 categories: til
 ---
 
@@ -206,6 +206,6 @@ Now go to <http://localhost:6006/>, and your storybook is ready!
 
 
 * SEE ALSO
-  * [For reference - Github repo with above code](https://github.com/technopreneurG/learn_node_reactapp)
+  * [For reference - Github repo with above code](https://github.com/technopreneurG/learn_react_storybook)
   * [Storybook Documentation](https://storybook.js.org/docs/angular/get-started/install)
   * [TIL: WebDev: Node + ReactApp](/til/2020/01/11/node_reactapp.html)
